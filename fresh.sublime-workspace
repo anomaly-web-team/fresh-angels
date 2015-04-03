@@ -1,0 +1,902 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"re",
+				"removeClass〔function〕"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"top",
+				"topimg.jpg	w:1200 h:800"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-bottom-color"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"w",
+				"white-space"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"be",
+				"beginner.png	w:9 h:12"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"gmo",
+				"gmo_pay_conf.php"
+			],
+			[
+				"wi",
+				"width100"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"hea",
+				"headerCloneContainer"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ta",
+				"timetable.jpg	w:1000 h:1486"
+			],
+			[
+				"logo",
+				"logo-10th.png	w:120 h:107"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"ad",
+				"addClass	.addClass()"
+			],
+			[
+				"opacity",
+				"opacity:   (property)"
+			],
+			[
+				"opaci",
+				"opacity	opacity()"
+			],
+			[
+				"write",
+				"writeln  (function)"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"he",
+				"height  (function)"
+			],
+			[
+				"mbackground-po",
+				"-ms-background-position-y:   (property)"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"r",
+				"rows	Attr"
+			],
+			[
+				"first",
+				"first-child  (pseudo-class)"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"lo",
+				"logo-01.png	w:64 h:120"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"po",
+				"position:   (property)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"all",
+				"allow-b.png	w:5 h:7"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"nav",
+				"navicon.png	w:220 h:20"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"thu",
+				"thumb-m.jpg	w:300 h:300"
+			],
+			[
+				"thum",
+				"thumb-m.jpg	w:500 h:333"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"the_exe",
+				"the_excerpt"
+			],
+			[
+				"ci",
+				"city-black.png	w:600 h:101"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"fish",
+				"fishboy-body.png	w:120 h:350"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ar",
+				"article	<article>"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"background-position-",
+				"-ms-background-position-y:   (property)"
+			],
+			[
+				"obj",
+				"obj2.png	w:200 h:264"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"yosen",
+				"yosen-west.png	w:270 h:230"
+			],
+			[
+				"moz-bo",
+				"-moz-border-radius:   (property)"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"webkit-border",
+				"-webkit-border-radius:   (property)"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"wp_res",
+				"wp_reset_query"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"sa",
+				"static"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ali",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/web/freshangels"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/web/freshangels/fresh.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/archive.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ssd720/scss/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ssd720/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/momohime/ja/sp.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/momohime/en/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/momohime/ja/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/scss/_layout.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/js/common.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/fishboy.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/single.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/momohime/en/sp.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/momohime/js/common-sp.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/scss/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/mypage.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku_ver2/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/anomaly/wp-content/themes/anomaly_ver4/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/anomaly/wp-content/themes/anomaly_ver4/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/anomaly/wp-content/themes/anomaly_ver4/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/anomaly/wp-content/themes/anomaly_ver4/js/jquery.pjax.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/js/jquery.pjax.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku/single.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ugoku/default.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/RUU/default.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/RUU/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/RUU/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/RUU/js/myscroll.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/RUU/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/japanfinal2015_ver2/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/RUU/js/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/RUU/common.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/scss/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/scss/_layout.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/scss/_vars.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/js/common.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/single.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/archive.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/scss/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ssd720/twitteroauth/twitter-cc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/js/home.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/single.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/anomaly/wp-content/themes/anomaly_ver4/single.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/scss/_common.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/anomaly/wp-content/themes/anomaly_ver4/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/kaze/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/scss/_vars.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/archive.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page-music.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/author.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/js/common.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page-studio.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/js/jquery.pjax.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/test.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/anomaly/wp-content/themes/anomaly_ver4/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ssd720/scss/_layout.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/ssd720/scss/_vars.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/anomaly/wp-content/themes/anomaly_ver4/js/common.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/wp_29/wp-content/themes/danceaweb/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/japanfinal2015_ver2/scss/_layout.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/japanfinal2015_ver2/scss/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/japanfinal2015_ver2/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page-event.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/plugins/custom-anomaly/output.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page-movie.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/plugins/custom-anomaly/output.html~",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/plugins/custom-anomaly/custom-anomaly.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/dews2.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/plugins/custom-anomaly/js/custom_anomaly.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/js/common.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page-fashion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page-studio.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page-fashionsnap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/page-fashion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/single-studio.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/page-music.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/page-studio.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/default.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/page-event.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/JBA/page-credit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/JBA/default.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/JBA/page-credit-2.php",
+		"/Users/mizunosatoru/Library/Application Support/Sublime Text 3/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/mizunosatoru/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/JBA/pay.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/js/home.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/wp-content/themes/dews_ver2/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/dews/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/dews_ver2/scss/_common.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/dews_ver2/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/dews_ver2/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/web/dews_ver2/dews2.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 333.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/web/yoshinoya/",
+			"/Applications/XAMPP/xamppfiles/htdocs/web/yoshinoya/report",
+			"<open files>,/Applications/XAMPP/xamppfiles/htdocs/web/yoshinoya/report/",
+			"<open files>,/Applications/XAMPP/xamppfiles/htdocs/web/yoshinoya/report",
+			"<open files>,/Applications/XAMPP/xamppfiles/htdocs/web/yoshinoya",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"socialBtn",
+			"wpnav",
+			".table01",
+			"sub",
+			"</td>",
+			"dd>",
+			"td",
+			"dd>",
+			"DD",
+			"dd",
+			"<td>",
+			"dt",
+			"page-nav",
+			"#page-nav",
+			"page-nav",
+			"detailBx",
+			"data",
+			"excer",
+			"inner",
+			"cat",
+			"entry",
+			"entries",
+			"inner",
+			".loading",
+			"navigation",
+			"ft-logo",
+			"flag",
+			"menuBtn",
+			"footer",
+			"likebox",
+			"section",
+			"inner",
+			"http://schema.org/",
+			"120",
+			"1s",
+			".grid",
+			"section",
+			"main",
+			"main\"",
+			"grid",
+			"section-info",
+			"entries",
+			"news-block--item ",
+			"has_gutter",
+			"entries",
+			"grid",
+			"wpnav",
+			"FFFFFF",
+			"form",
+			"table",
+			"#breadcrumbs",
+			".headline",
+			"#breadcrumbs",
+			"section--title",
+			"socialBtn",
+			"navi",
+			"logo",
+			"navigation",
+			" class=\"grid__item--3 has-gutter\"",
+			"grid--item__3",
+			"section",
+			"entries",
+			"section",
+			"img-event",
+			"headline",
+			"ryth",
+			"grid",
+			"my_query",
+			"$wp_query",
+			".icn",
+			"images/icon-nav.png",
+			"icn",
+			"login",
+			"content",
+			"compass",
+			".socialBtn",
+			"social",
+			"#sub2",
+			"sub-adarea",
+			"home",
+			"#sub-navigation",
+			"sub-menu",
+			"#sub-navigation",
+			"ul > li{\n			margin-bottom: 8px;\n		}\n		ul ul li{\n			margin-bottom: 0;\n		}",
+			"sub-navigation",
+			"sub",
+			".sub--bx",
+			".formtable",
+			"</td>",
+			"dd",
+			" : </dt>",
+			"<dt>",
+			"	",
+			"	<",
+			"</td>",
+			"dd",
+			"</dt>",
+			"<dt>",
+			"th",
+			"table",
+			"</td>",
+			"dd",
+			"<th>",
+			"dt",
+			"sub--bx ",
+			"imageWrapper",
+			"sub2",
+			"user-icon ",
+			"event",
+			"entry-w",
+			"tag",
+			"grid",
+			"grid-sp cf",
+			"grid-sp",
+			"grid",
+			"class='event_anomaly'",
+			"event_anomaly",
+			"【",
+			"button",
+			"@butto",
+			"任意。",
+			"button",
+			"detail",
+			".socialBtn",
+			"header__adsense",
+			".sub--bx",
+			"grid-sp",
+			"entry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<script type=\"text/javascript\">\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-4284541-1']);\n  _gaq.push(['_setDomainName', 'yoshinoya.com']);\n  _gaq.push(['_trackPageview']);\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n</script>\n</head>",
+			"",
+			"<li class=\"bn-ysny\"><a href=\"http://www.yoshinoya.com/\"><img src=\"../images/yoshinoya.jpg\" alt=\"吉野家\"></a></li>",
+			"<li class=\"bn-dal\"><a href=\"http://www.dancealive.tv/dancealive/\" target=\"_blank\" rel=\"nofollow\"><img src=\"../images/dal.png\" alt=\"DANCE@LIVE\"></a></li>",
+			"<li class=\"bn-dal\"><a href=\"http://www.dancealive.tv/dancealive/\"><img src=\"images/dal.png\" alt=\"DANCE@LIVE\"></a></li>",
+			"font-family: 'Droid Serif';",
+			"20141012",
+			"/yumeki/",
+			"20140927",
+			"images/20140914"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 158.0
+	},
+	"project": "fresh.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
