@@ -48,11 +48,16 @@ jQuery(document).ready(function(){
 	var flag = 0;
 	$('#menu').click(function() {
 		if(!flag) {
+			var cnt = 0;
 			$('#navigation').animate({right:0});
+			$('#navigation').find('li').each(function(){
+	            $(this).hide().delay(100 * cnt++).fadeIn('5000').animate({left:0});
+	        });
 			$(this).addClass('open');
 			flag = 1;
 		}else{
 			$('#navigation').animate({right:'-260px'});
+			$('#navigation').find('li').css({left:'100%'});
 			$(this).removeClass('open');
 			flag = 0;
 		}
