@@ -224,6 +224,8 @@ input[type="reset"]{
 #navigationUl{
 	padding: 60px 0 48px 0;
 	li{
+		position: relative;
+		left: 100%;
 		border-top:1px solid #222;
 		text-align: center;
 		&:last-child{
