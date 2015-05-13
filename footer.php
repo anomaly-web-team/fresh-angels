@@ -4,6 +4,7 @@
 <ul id="navigationUl" class="scroll">
 <li><a href="<?php echo esc_url( home_url()); ?>">TOP</a></li>
 <li><a href="<?php echo esc_url( home_url('/')); ?>category/news">NEWS</a></li>
+<li><a href="<?php echo esc_url( home_url('/')); ?>report/">REPORT</a></li>
 <li><a href="<?php echo esc_url( home_url('/')); ?>profile">PROFILE</a></li>
 <li><a href="<?php echo esc_url( home_url('/')); ?>category/gallery">GALLERY</a></li>
 <li><a href="<?php echo esc_url( home_url('/')); ?>schedule">SCHEDULE</a></li>
@@ -20,7 +21,7 @@
     <div id="contact">
         <div id="logo"><img src="<?php echo get_template_directory_uri(); ?>/images/logo-ft.png" alt="FRASH ANGELS ロゴマーク"></div>
         <p>CONTACT</p>
-        <p><img src="<?php echo get_template_directory_uri(); ?>/images/address.png" alt="メールアドレス"></p>
+        <p><a href="mailto:mail@fresh-angels.com"><img src="<?php echo get_template_directory_uri(); ?>/images/address.png" alt="メールアドレス"></a></p>
 
         <ul class="socialLink">
             <li class="fb"><a href="" target="_blank">FACEBOOK</a></li>
@@ -29,7 +30,20 @@
             <li class="ab"><a href="" target="_blank">AMEBLO</a></li>
         </ul>
     </div>
-    <div id="copyright" >Copyright ©FRESH ANGELS. All Rights Reserved.</div>
+    <div id="sponsor" >
+        <p><a href="http://www.eee-smile.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-esmile.jpg" alt="イースマイル"></a></p>
+        <ul>
+            <li><a href="http://www.nexus-group.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-nexus.jpg" alt="NEXUS"></a></li>
+            <li><a href="http://www.nexus-group.jp/store/dstation/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-dstate.jpg" alt="DSTA"></a></li>
+            <li><a href="http://www.nexus-group.jp/store/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-sporesh.jpg" alt="NEXUSグループ"></a></li>
+            <li><a href="http://www.nexus-group.jp/store/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-zima.jpg" alt="NEXUSグループ"></a></li>
+            <li><a href="http://www.nexus-group.jp/store/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-yurabu.jpg" alt="NEXUSグループ"></a></li>
+            <li><a href="http://www.nexus-group.jp/store/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-moment.jpg" alt="NEXUSグループ"></a></li>
+        </ul>
+    </div>
+    <div id="copyright" >
+        Copyright ©FRESH ANGELS. All Rights Reserved.
+    </div>
 </footer>
 
 </div><!--wrapper-->

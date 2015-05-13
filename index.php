@@ -1,18 +1,23 @@
 <?php get_header(); ?>
 
 <section id="section-news" class="section-w">
-	<h1><img src="<?php echo get_template_directory_uri(); ?>/images/ti-news.png" alt="news"></h1>
+	<h1><img src="<?php echo get_template_directory_uri(); ?>/images/ti-topics.png" alt="topics"></h1>
 
 	<div class="inner entries">
 		<div class="grid cf">
 			<?php if(have_posts()) : while (have_posts()) : the_post(); ?>
 			<div class="grid__item--3">
 				<a href="<?php the_permalink(); ?>">
-					<div class="imageWrap"><div class="image"><?php if(has_post_thumbnail()): the_post_thumbnail("medium"); else: echo '<img src="' . get_template_directory_uri().'/images/thumb.jpg" alt="no image">'; endif; ?></div></div>
+					<div class="imageWrap">
+						<div class="image">
+							<?php if(has_post_thumbnail()): the_post_thumbnail("medium"); else: echo '<img src="' . get_template_directory_uri().'/images/thumb.jpg" alt="no image">'; endif; ?>
+						</div>
+					</div>
 					<h2 class="title"><?php the_title(); ?></h2>
 					<?php the_excerpt();?>
 					<div class="data">
 						<span><?php the_time('d'); ?> <?php echo get_post_time('M') ?> <?php the_time('Y'); ?></span>
+						<img src="<?php echo get_template_directory_uri(); ?>/images/ca-<?php $cats = get_the_category(); foreach( $cats as $cat) { echo $cat->cat_name; } ?>.jpg" class="category">       
 					</div>
 				</a>
 			</div>
@@ -21,7 +26,7 @@
 	</div>
 
 	<?php if(is_home()): ?>
-	<div class="link"><a href="<?php echo esc_url( home_url('/')); ?>category/news">MORE</a></div>
+	<!-- <div class="link"><a href="<?php echo esc_url( home_url('/')); ?>category/news">MORE</a></div>  -->
 	<?php elseif(!(is_home()) && (function_exists('wp_pagenavi'))): ?>
 	<div id="wpnav"><?php wp_pagenavi(); ?></div>
 	<?php endif; ?>
