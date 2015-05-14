@@ -30,17 +30,6 @@
             <li class="ab"><a href="" target="_blank">AMEBLO</a></li>
         </ul>
     </div>
-    <div id="sponsor" >
-        <p><a href="http://www.eee-smile.com/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-esmile.jpg" alt="イースマイル"></a></p>
-        <ul>
-            <li><a href="http://www.nexus-group.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-nexus.jpg" alt="NEXUS"></a></li>
-            <li><a href="http://www.nexus-group.jp/store/dstation/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-dstate.jpg" alt="DSTA"></a></li>
-            <li><a href="http://www.nexus-group.jp/store/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-sporesh.jpg" alt="NEXUSグループ"></a></li>
-            <li><a href="http://www.nexus-group.jp/store/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-zima.jpg" alt="NEXUSグループ"></a></li>
-            <li><a href="http://www.nexus-group.jp/store/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-yurabu.jpg" alt="NEXUSグループ"></a></li>
-            <li><a href="http://www.nexus-group.jp/store/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/bn-moment.jpg" alt="NEXUSグループ"></a></li>
-        </ul>
-    </div>
     <div id="copyright" >
         Copyright ©FRESH ANGELS. All Rights Reserved.
     </div>

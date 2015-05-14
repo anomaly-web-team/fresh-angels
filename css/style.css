@@ -659,7 +659,7 @@ input[type="reset"]:hover {
 /*---- FOOTER --------------------------------*/
 #footer {
   position: relative;
-  background: #fff;
+  background: #000;
 }
 
 #img-w {
@@ -670,12 +670,11 @@ input[type="reset"]:hover {
 
 #footer {
   text-align: center;
-  padding: 8px 0px;
+  padding: 8px 20px;
 }
 
 #contact {
   padding: 120px 0 80px;
-  background: #000;
 }
 #contact p {
   font-size: 18px;
@@ -707,23 +706,19 @@ input[type="reset"]:hover {
 }
 
 #sponsor{
-  padding: 10px 0px;
+  text-align: center;
 }
 
 #sponsor p{
   margin-bottom: 8px;
 }
 
-#sponsor ul {
-  margin-bottom: 10px;
-}
 #sponsor li {
   display: inline-block;
 }
 
 #copyright {
   font-size: 11px;
-  color:#000;
 }
 
 /*---- progress --------------------------------*/
@@ -894,16 +889,6 @@ a:hover .image {
 .section-b .link a:hover {
   background: #FFF;
   color: #555;
-}
-
-.data img.category{
-  float: right;
-}
-
-.GALLERY{
-  background-color: #000;
-  color: #fff;
-  text-align: center;
 }
 
 /*---- ABOUT --------------------------------*/
