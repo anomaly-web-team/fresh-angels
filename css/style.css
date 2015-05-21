@@ -687,6 +687,7 @@ input[type="reset"]:hover {
   margin-bottom: 1.5rem;
 }
 #contact .socialLink {
+  display: none;
   width: 200px;
   margin: 80px auto 0;
 }
