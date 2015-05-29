@@ -656,6 +656,11 @@ input[type="reset"]:hover {
   background-position: -336px 0;
 }
 
+.share-btn li{
+  display: inline-block;
+  margin-right: 20px;
+}
+
 /*---- FOOTER --------------------------------*/
 #footer {
   position: relative;

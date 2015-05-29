@@ -65,6 +65,16 @@ $cat_name = $cat[0]->name;
 
 		<?php endif; ?>
 
+		<ul class="share-btn">
+		<li>
+		<!-- シェアボタンに変換される -->
+		<a class="twitter-share-button" href="https://twitter.com/share" data-dnt="true">Tweet</a>
+		</li>
+		<li>
+		<!-- シェアボタンに変換される -->
+		<div class="fb-like" data-href="http://syncer.jp" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+		</li>
+
 	</article>
 
 	<?php
