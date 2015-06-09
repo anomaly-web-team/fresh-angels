@@ -9,18 +9,6 @@
 <li><a href="<?php echo esc_url( home_url('/')); ?>category/gallery">GALLERY</a></li>
 <li><a href="<?php echo esc_url( home_url('/')); ?>schedule">SCHEDULE</a></li>
 </ul>
-<ul class="socialLink">
-    <li class="fb"><a href="" target="_blank">FACEBOOK</a></li>
-    <li class="tw"><a href="" target="_blank">TWITTER</a></li>
-    <li class="rss"><a href="" target="_blank">RSS</a></li>
-    <li class="ab"><a href="" target="_blank">AMEBLO</a></li>
-</ul>
-<ul class="socialLink">
-    <li class="fb"><a href="" target="_blank">FACEBOOK</a></li>
-    <li class="tw"><a href="" target="_blank">TWITTER</a></li>
-    <li class="rss"><a href="" target="_blank">RSS</a></li>
-    <li class="ab"><a href="" target="_blank">AMEBLO</a></li>
-</ul>
 </nav>
 
 <footer id="footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
