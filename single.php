@@ -72,7 +72,7 @@ $cat_name = $cat[0]->name;
 		</li>
 		<li>
 		<!-- シェアボタンに変換される -->
-		<div class="fb-like" data-href="http://syncer.jp" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+		<div class="fb-share-button" data-href="http://fresh-angels.com/" data-layout="button_count"></div>
 		</li>
 
 	</article>
