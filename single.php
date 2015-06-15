@@ -66,14 +66,9 @@ $cat_name = $cat[0]->name;
 		<?php endif; ?>
 
 		<ul class="share-btn">
-		<li>
-		<!-- シェアボタンに変換される -->
-		<a class="twitter-share-button" href="https://twitter.com/share" data-dnt="true">Tweet</a>
-		</li>
-		<li>
-		<!-- シェアボタンに変換される -->
-		<div class="fb-share-button" data-href="http://fresh-angels.com/" data-layout="button_count"></div>
-		</li>
+			<li><a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-count="vertical" data-text="" data-url="<?php the_permalink(); ?>" rel="nofollow">ツイート</a></li>
+			<li><div class="fb-like" data-href="<?php the_permalink(); ?>" data-send="false" data-layout="box_count" data-show-faces="false" data-colorscheme="light"></div></li>
+		</ul>
 
 	</article>
 
